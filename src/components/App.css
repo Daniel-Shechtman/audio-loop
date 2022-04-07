@@ -47,4 +47,5 @@ body {
   height: 625px;
   background: white;
   width: 1px;
+  transition: left 0.2s linear;
 }
